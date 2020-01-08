@@ -1,1 +1,1 @@
-this is first git sample txt
+this is second git sample txt
